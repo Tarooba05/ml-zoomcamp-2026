@@ -2,7 +2,7 @@
 Homework for ML Zoomcamp 2026.
 
 ## Contents
-- homework.ipynb: solutions for Q1 to Q7
+- ML Zoomcamp-HW1.ipynb: solutions for Q1 to Q7
 
 ## Data
 car_fuel_efficiency_2026.csv, downloaded with:
